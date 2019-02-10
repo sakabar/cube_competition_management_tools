@@ -1,0 +1,10 @@
+# jupyter notebook
+.ipynb_checkpoints
+
+# input/output files
+WCA_export
+WCA_export_RanksSingle.tsv
+
+input.csv
+output.csv
+output.tsv
