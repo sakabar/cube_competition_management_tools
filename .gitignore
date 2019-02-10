@@ -8,3 +8,6 @@ WCA_export_RanksSingle.tsv
 input.csv
 output.csv
 output.tsv
+
+high_load_people.tsv
+low_load_people.tsv
